@@ -1,0 +1,39 @@
+newmtl FSkeleton_99d6e96d-2c88-4ab3-8beb-77a4d12defb6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd FSkeleton_baseColor.jpg
+newmtl FTorso_deceec67-1449-46c5-84e0-2594286c4805
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd FTorso_baseColor.jpg
+newmtl _e6b87c49-242b-49a5-aeb9-0cdc7a498176
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd download_25.jpg
+newmtl _ddc2efc1-8fc9-40b9-a51a-5850d2ee91fb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd download_28.jpg
+newmtl FOther_07386358-b8a8-401d-868f-8cf562f0d153
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd FOther_baseColor.jpg
+newmtl _b4235e65-2373-4596-baba-08cf1151e546
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd block.jpg
+newmtl _e85771fd-a532-4187-ac90-e407fdeedcfa
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd download_22.jpg
+newmtl FBodyparts_4a4fa989-f43c-456c-9be2-b35fcadc612c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd FBodyparts_baseColor.jpg
+newmtl FLightup_1b4f20f8-42f0-4860-9a82-1f205625a9c6
+Kd 0.904 0.904 0.904
+d 1.000
+newmtl FHead_3a449eb3-139e-458a-bd3f-6d0c835eed8e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd FHead_baseColor.jpg
